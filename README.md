@@ -2,7 +2,7 @@
 
 - 🌀 I’m currently learning React.Js
 - 👩‍💻 Pronouns: He/Him
-- 🎁 Fun fact: I'm a brazilian teenager student of web development!
+- 🎁 Fun fact: I have herpethobia and the idea of touching a lizard make me crazy!
 
  <div>
   <a href="https://beacons.ai/gussman">

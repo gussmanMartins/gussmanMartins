@@ -2,7 +2,7 @@
 
 - 🌀 I’m currently learning React.Js
 - 👩‍💻 Pronouns: He/Him
-- 🎁 Fun fact: I have herpethobia and the idea of touching a lizard make me crazy!
+- 🎁 Fun fact: I have herpethobia and the idea of touching a lizard makes me crazy!
 
  <div>
   <a href="https://beacons.ai/gussman">
